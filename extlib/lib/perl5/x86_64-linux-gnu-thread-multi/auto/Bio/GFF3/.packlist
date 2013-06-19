@@ -1,0 +1,10 @@
+/home/luxuia/www/Designer/extlib/bin/gff3_from_fasta
+/home/luxuia/www/Designer/extlib/lib/perl5/Bio/GFF3/LowLevel.pm
+/home/luxuia/www/Designer/extlib/lib/perl5/Bio/GFF3/LowLevel/Parser.pm
+/home/luxuia/www/Designer/extlib/lib/perl5/Bio/GFF3/LowLevel/Parser/1_0_backcompat.pm
+/home/luxuia/www/Designer/extlib/lib/perl5/Bio/GFF3/Transform/FromFasta.pm
+/home/luxuia/www/Designer/extlib/man/man1/gff3_from_fasta.1p
+/home/luxuia/www/Designer/extlib/man/man3/Bio::GFF3::LowLevel.3pm
+/home/luxuia/www/Designer/extlib/man/man3/Bio::GFF3::LowLevel::Parser.3pm
+/home/luxuia/www/Designer/extlib/man/man3/Bio::GFF3::LowLevel::Parser::1_0_backcompat.3pm
+/home/luxuia/www/Designer/extlib/man/man3/Bio::GFF3::Transform::FromFasta.3pm

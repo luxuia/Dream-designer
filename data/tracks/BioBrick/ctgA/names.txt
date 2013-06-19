@@ -1,0 +1,5 @@
+[["EDEN.2"],"BioBrick","EDEN.2","ctgA",1049,9000]
+[["EDEN.1"],"BioBrick","EDEN.1","ctgA",1049,9000]
+[["EDEN.3"],"BioBrick","EDEN.3","ctgA",1299,9000]
+[["Apple2"],"BioBrick","Apple2","ctgA",12999,17200]
+[["Apple3"],"BioBrick","Apple3","ctgA",17399,23000]
